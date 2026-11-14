@@ -1,0 +1,10 @@
+name: MediaSMPServerTag
+main: dev.shlok.mediasmpservertag.MediaSMPServerTag
+version: 1.0.0
+api-version: '1.21'
+description: Chat tag shop paid with FrozenShards
+depend: [PlaceholderAPI, FrozenShards]
+commands:
+  tags:
+    description: Open the tag shop
+    aliases: [tagshop]
