@@ -14,3 +14,4 @@ jobs:
         with:
           name: MediaSMPServerTag
           path: target/MediaSMPServerTag.jar
+          
